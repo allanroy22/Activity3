@@ -1,0 +1,13 @@
+mat-card{
+    margin-left: 400px;
+    margin-top: 50px;
+    max-width: 200px;
+    background: rgba(30, 99, 145, 0.62);
+    color: aliceblue;
+  }
+  .second{
+    background: rgba(166, 163, 163, 0.62);
+    color: #313131;
+  }
+  
+  

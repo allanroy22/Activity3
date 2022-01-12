@@ -1,0 +1,31 @@
+mat-grid-tile{
+
+    left: 10px;
+    width: calc((28% - 0.5px) * 2 + 1px);
+    margin-top: 10px;
+    padding-top: calc((55% - 152.5px) * 1 + 0px);
+  }
+  
+  
+  
+  .example-header-image {
+    height:350px;
+    width: 350px;
+    background-image: url('https://scontent.fceb2-1.fna.fbcdn.net/v/t39.30808-6/242751773_3159943390908053_8675700932613768285_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_eui2=AeH9eDcbYqD4g9Tnfkf83UOxH9iSJZjTyS8f2JIlmNPJL9enDViayEDcf84SapZY9J690SaZ5jxWg4CF0Dkf71Ak&_nc_ohc=RRj0TaO-EQwAX_sem20&_nc_ht=scontent.fceb2-1.fna&oh=00_AT89EBB_Ki8C3o37grhFKBm94z-8-SRjY12bK9eM_ivuWA&oe=61E3F8B5');
+    background-size: cover;
+  }
+  img{
+    position: absolute;
+   
+  
+    clip: rect(47px,291px, 288px, 30px);
+  }
+  * {
+    color: aliceblue;
+  }
+  mat-card{
+    background: rgb(18, 112, 97);
+    color: aliceblue;
+  }
+  
+  
